@@ -32,12 +32,12 @@ Initially, the data is subject to important stages in an analytics pipeline: exp
 
 Further we used the Machine Learning Models giving us the results as follows:
 
-##1.K-Means Clustering:
+1.K-Means Clustering:
 
-###**Elbow Method - 4 Clusters*
+Elbow Method - 4 Clusters*
 
-###***Silhouette Score - 2 Clusters*
+Silhouette Score - 2 Clusters*
 
-##2.DB-Scan :- 4 Clusters*
+2.DB-Scan :- 4 Clusters*
 
 Based on the companies goals, we can use these models and their obtained clusters to build business strategies, marketting campaigns, etc. to target, insentivise and attract customer base.
