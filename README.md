@@ -3,11 +3,13 @@
 **Unsupervised ML Clustering Analysis:**
 
 **The need of customer segmentation:**
+
 1.The differences in customers' behaviour, demographics, geographies, etc. help in classifying them in groups. Learning about different groups in the customer can help with following:
 
 2.Target Marketing Client understanding Optimal product placement Searching for new customers Revenue growth
 
 **Recency-Frequency-Monetary (RFM) model to determine customer value:**
+
 The RFM model is quite useful model in retail customer segmentation where only the data of customer transaction is available. 
 
 RFM stands for the three dimensions:
